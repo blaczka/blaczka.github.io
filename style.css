@@ -1,6 +1,8 @@
 body
 {
  background-image: url("tapetaa.jpg");
+ max-width:800px;
+ margin:auto;
 }
 p
 {
@@ -18,4 +20,5 @@ h2
 {
     font-family: 'Saira Condensed', sans-serif;
 }
+
 
